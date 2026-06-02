@@ -103,4 +103,5 @@ career_compass/
     ├── skill_agent.py       # Agent 1 – Skill Extraction
     ├── scoring_agent.py     # Agent 2 – Scoring & Difficulty
     ├── interview_agent.py   # Agent 3 – Interview Coach
-    └── interview_agent.py   # Agent 3 – Interview Coach
+    └── cover_letter_agent.py # Agent 4– Cover Letter
+
